@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/6a22d540b60d4c1abdfc8bcee71b206e/artifacts
+end_time: 1712602602406
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a22d540b60d4c1abdfc8bcee71b206e
+run_name: agreeable-hare-726
+run_uuid: 6a22d540b60d4c1abdfc8bcee71b206e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712602599196
+status: 3
+tags: []
+user_id: abc
